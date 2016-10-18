@@ -392,5 +392,231 @@ A & = & 14
 
 \end_layout
 
+\begin_layout Standard
+5.
+ Points A and B are 400 miles apart.
+ At noon, one train starts from A heading toward B, while another train
+ starts from B heading for A.
+ The faster train is 20 MPH faster than the slower train.
+ The two trains meet at 4 PM.
+ How far has each train travelled?
+\end_layout
+
+\begin_layout Standard
+This is a vector problem in one dimension.
+ At the start: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $A$
+\end_inset
+
+ is at 
+\begin_inset Formula $x=0$
+\end_inset
+
+, and 
+\begin_inset Formula $B$
+\end_inset
+
+ is at 
+\begin_inset Formula $x=400$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Either train can be the slower train.
+ Let B be the slower train.
+ If A travels 
+\begin_inset Formula $m$
+\end_inset
+
+ mph then B travels 
+\begin_inset Formula $m-20$
+\end_inset
+
+ mph.
+ 
+\end_layout
+
+\begin_layout Standard
+At time 
+\begin_inset Formula $t$
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+A will be at 
+\begin_inset Formula $x=mt$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+B will be at 
+\begin_inset Formula $x=400-(m-20)t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+At time 
+\begin_inset Formula $t=4$
+\end_inset
+
+ the trains meet, therefore:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $mt=400-(m-20)t$
+\end_inset
+
+, when 
+\begin_inset Formula $t=4$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Substitute 
+\begin_inset Formula $t=4$
+\end_inset
+
+ and solve for 
+\begin_inset Formula $m$
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{eqnarray*}
+4m & = & 400-4(m-20)\\
+4m & = & 400-4m-80\\
+8m & = & 320\\
+m & = & 40
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Now, find 
+\begin_inset Formula $x$
+\end_inset
+
+ when 
+\begin_inset Formula $t=4$
+\end_inset
+
+ for A and B:
+\end_layout
+
+\begin_layout Standard
+A: 
+\begin_inset Formula 
+\begin{eqnarray*}
+x & = & mt\\
+x & = & 40\cdot5\\
+x & = & 200
+\end{eqnarray*}
+
+\end_inset
+
+B:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{eqnarray*}
+x & = & 400-(m-20)t\\
+x & = & 400-4(40-20)\\
+x & = & 320\\
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Because B started at 
+\begin_inset Formula $x=400,$
+\end_inset
+
+B has traveled 
+\begin_inset Formula $400-320=80$
+\end_inset
+
+ miles and A has traveled 200 miles at 
+\begin_inset Formula $t=4.$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+6.
+ Jane can do a certain job in 10 minutes by herself.
+ Sally would need 15 minutes to do the same job by herself.
+ If the girls work together, how much time is needed for the job?
+\end_layout
+
+\begin_layout Standard
+This is a pre-calculus summation problem.
+ 
+\end_layout
+
+\begin_layout Standard
+In one minute, Jane can do 
+\begin_inset Formula $\frac{1}{10}$
+\end_inset
+
+ of the job, and in one minute Sally can do 
+\begin_inset Formula $\frac{1}{15}$
+\end_inset
+
+ of the job.
+ If the job is done in m minutes, then:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{eqnarray*}
+\frac{m}{10}+\frac{m}{15} & = & 1\\
+5m & = & 30\\
+m & = & 6
+\end{eqnarray*}
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
 \end_body
 \end_document
