@@ -316,5 +316,81 @@ B & = & 180\textdegree-A-C\\
 
 \end_layout
 
+\begin_layout Standard
+4.
+ Find 
+\begin_inset Formula $A$
+\end_inset
+
+, 
+\begin_inset Formula $\theta$
+\end_inset
+
+ such that 
+\begin_inset Formula $7\sin\theta+24\cos\theta=A\sin(\theta+\alpha)$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Pick 
+\begin_inset Formula $\theta$
+\end_inset
+
+ such that 
+\begin_inset Formula $\sin\theta=\cos\theta$
+\end_inset
+
+, or 
+\begin_inset Formula $\theta=\frac{\pi}{4}$
+\end_inset
+
+.
+ Now:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{eqnarray*}
+7\sin\theta+24\cos\theta & = & A\sin(\theta+\alpha)\\
+\sin\theta+3\cos\theta & = & \frac{A\sin\theta}{7}\\
+\sin\theta-\frac{A\sin\theta}{7}+3\cos\theta & = & 0\\
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When 
+\begin_inset Formula $\theta=\frac{\pi}{4}$
+\end_inset
+
+, then 
+\begin_inset Formula $\sin\theta=\cos\theta=\frac{\sqrt{2}}{2}$
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{eqnarray*}
+\frac{\sqrt{2}}{2}-\frac{A\sqrt{2}}{14}+\frac{3\sqrt{2}}{2} & = & 0\\
+\frac{\sqrt{2}}{2}-\frac{A\sqrt{2}}{14} & = & -\frac{3\sqrt{2}}{2}-\frac{\sqrt{2}}{2}\\
+-\frac{A\sqrt{2}}{14} & = & -\frac{2\sqrt{2}}{2}\\
+\frac{A\sqrt{2}}{14} & = & \sqrt{2}\\
+A\sqrt{2} & = & 14\sqrt{2}\\
+A & = & 14
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
 \end_body
 \end_document
