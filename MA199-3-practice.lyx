@@ -1,0 +1,567 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section*
+Problems
+\end_layout
+
+\begin_layout Enumerate
+Convert the following degrees to radian measure.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Formula $30\textdegree$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $60\textdegree$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $90\textdegree$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $270\textdegree$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $260\textdegree$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $340\textdegree$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $-150\textdegree$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $420\textdegree$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Convert the following radians to degree measure.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Formula $\frac{\pi}{3}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $\frac{\pi}{4}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $\frac{2\pi}{3}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $\frac{3\pi}{4}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $-\frac{7\pi}{6}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $\frac{10\pi}{6}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $4\pi$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $\frac{\pi}{12}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+\begin_inset Formula $sin\theta=\frac{3}{5}$
+\end_inset
+
+, and 
+\begin_inset Formula $0<\theta<180$
+\end_inset
+
+ find:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Formula $cos\theta$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $sin2\theta$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $cos2\theta$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $sin\frac{\theta}{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $cos\frac{\theta}{2}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+\begin_inset Formula $cos\theta=\frac{1}{2}$
+\end_inset
+
+, 
+\begin_inset Formula $270<\theta<360$
+\end_inset
+
+ find: 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Formula $sin\theta$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $cos2\theta$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $sin2\theta$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $cos\frac{\theta}{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $sin\frac{\theta}{2}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Find specified angle or length of triangle ABC if:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Find angle opposite the side with length 
+\begin_inset Formula $30$
+\end_inset
+
+.
+ 
+\begin_inset Formula $A=60\textdegree,\:b=20,\:c=30$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Find angle opposite the side with length 
+\begin_inset Formula $20$
+\end_inset
+
+.
+ 
+\begin_inset Formula $a=34,\:b=20,\;c=18$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Find the largest angle: 
+\begin_inset Formula $a=38,\:b=24,\:c=31$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Enumerate
+Find all missing sides and angles: 
+\begin_inset Formula $a=410,\:c=340,\:B=151.5\textdegree$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Enumerate
+Find all missing sides and angles: 
+\begin_inset Formula $a=0.48,\:b=0.63,\:c=0.75$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Find 
+\begin_inset Formula $A$
+\end_inset
+
+, 
+\begin_inset Formula $\theta$
+\end_inset
+
+ such that 
+\begin_inset Formula $49\sin\theta+18\cos\theta=A\sin(\theta+\alpha)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Solve the following train problems.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+A train leaves Austin for a nearby city at 2:15 am, averaging 80 mph.
+ Another train leaves the nearby city for Austin at 3:30 am, averaging 110
+ mph.
+ If the nearby city is 2855 miles from Austin, to the nearest minute, at
+ what time will the two trains pass each other?
+\end_layout
+
+\begin_layout Enumerate
+A train leaves Los Angeles at 6:45 pm, averaging 85 mph.
+ Another train headed in the same direction leaves Los Angeles at 9:30 pm,
+ averaging 105 mph.
+ To the nearest minute, at what time will the second train overtake the
+ first train?
+\end_layout
+
+\begin_layout Enumerate
+A train leaves Rome at 7:15 am, averaging 95 mph.
+ Another train headed in the opposite direction leaves Rome at 8:30 am,
+ averaging 115 mph.
+ To the nearest mile, how far are the two trains from each other at 10:30
+ am?
+\end_layout
+
+\begin_layout Enumerate
+A train leaves Barcelona at 9:45 am, averaging 85 mph.
+ Another train headed in the opposite direction leaves Barcelona at 12:15
+ pm, averaging 95 mph.
+ To the nearest mile, how far are the two trains from each other at 1:15
+ pm?
+\end_layout
+
+\begin_layout Enumerate
+A train leaves Barcelona at 3:15 am, averaging 30 mph.
+ Another train headed in the opposite direction leaves Barcelona at 4:45
+ am, averaging 41 mph.
+ To the nearest mile, how far are the two trains from each other at 5:45
+ am?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Solve the following rate of work problems.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Worker A can finish a job in 3 hours.
+ When working at the same time as Worker B, they can finish the job in 2
+ hours.
+ How long does it take for Worker B to finish the job if he works alone?
+ 
+\end_layout
+
+\begin_layout Enumerate
+Painters A and B can paint a wall in 10 hours when working at the same time.
+ Painter B works twice as fast as A.
+ How long would it take to each of them to paint it if they worked alone?
+ 
+\end_layout
+
+\begin_layout Enumerate
+A 10,000 litre pool is filled by two pipes: A and B.
+ Pipe A delivers 1,000 litres per hour.
+ When pipe A and B are both on, they can fill this pool in 4 hours.
+ How many litres per hour can pipe B deliver? 
+\end_layout
+
+\end_deeper
+\begin_layout Section*
+Selected Answers
+\end_layout
+
+\begin_layout Enumerate
+(a) 
+\begin_inset Formula $\frac{\pi}{6}$
+\end_inset
+
+ (c) 
+\begin_inset Formula $\frac{\pi}{2}$
+\end_inset
+
+ (e) 
+\begin_inset Formula $\frac{13\pi}{9}$
+\end_inset
+
+ (g) 
+\begin_inset Formula $-\frac{5\pi}{6}$
+\end_inset
+
+ (h) 
+\begin_inset Formula $\frac{7\pi}{3}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Enumerate
+(a) 
+\begin_inset Formula $60\textdegree$
+\end_inset
+
+ (c) 
+\begin_inset Formula $120\textdegree$
+\end_inset
+
+ (e) 
+\begin_inset Formula $-210\textdegree$
+\end_inset
+
+ (f) 
+\begin_inset Formula $300\textdegree$
+\end_inset
+
+ (g) 
+\begin_inset Formula $720\textdegree$
+\end_inset
+
+ (h) 
+\begin_inset Formula $15\textdegree$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Enumerate
+(a) 
+\begin_inset Formula $\pm\frac{4}{5}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+(a) 
+\begin_inset Formula $-\frac{\sqrt{3}}{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+(a) Intermediate Steps: 
+\begin_inset Formula $a=26,\:B=42\textdegree$
+\end_inset
+
+ Final Angle: 
+\begin_inset Formula $C=78\textdegree$
+\end_inset
+
+ (b) Intermediate Steps: 
+\begin_inset Formula $A=127\textdegree,\:C=25\textdegree$
+\end_inset
+
+ Final Angle: 
+\begin_inset Formula $B=28\textdegree$
+\end_inset
+
+ (c) 
+\begin_inset Formula $A=128\textdegree$
+\end_inset
+
+ (d) 
+\begin_inset Formula $A=15.6\textdegree,\:C=12.9\textdegree,\:b=727$
+\end_inset
+
+ (e) 
+\begin_inset Formula $A=39\textdegree,\:B=57\textdegree,\:C=84\textdegree$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $A=67,\:\alpha=360,\:\theta=\frac{\pi}{4}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+(a) 6:00pm (b) 9:11am (c) 538.75 (d) 392.5 (e) 116
+\end_layout
+
+\begin_layout Enumerate
+(a) 6 (b) A=30, B=15 (c) 1500 l/hr
+\end_layout
+
+\end_body
+\end_document
